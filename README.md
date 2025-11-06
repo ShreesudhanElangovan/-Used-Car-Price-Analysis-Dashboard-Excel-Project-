@@ -130,14 +130,6 @@ Emphasize low mileage and engine performance in listings.
 
 Highlight fuel efficiency and eco-friendly features to attract modern buyers.
 
-🔹 For Future Work
-
-Incorporate time-series forecasting for market price prediction.
-
-Add brand-wise regression or machine learning models for improved precision.
-
-Include categorical dummy variables (brand, fuel type, transmission) for richer model performance.
-
 🧠 Executive Summary
 
 A multiple linear regression model was developed to predict used car prices based on mileage, age, engine size, MPG, and tax.
