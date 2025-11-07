@@ -53,7 +53,7 @@ Average Fuel Efficiency	56 MPG
 
 ⚙️ Transmission vs Average Price
 
-🔵 Engine Size vs Price (Scatter with Trendline)
+🔵 Engine Size vs Mpg (Scatter with Trendline)
 
 🟢 Actual vs Predicted Price (Regression Performance)
 
